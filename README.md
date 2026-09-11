@@ -6,8 +6,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0605-can-place-flowers](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [3483-unique-3-digit-even-numbers](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/0605-can-place-flowers) |
+## Hash Table
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/3483-unique-3-digit-even-numbers) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
