@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/0605-can-place-flowers) |
 | [1004-max-consecutive-ones-iii](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/1004-max-consecutive-ones-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/0392-is-subsequence) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -68,4 +70,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/1004-max-consecutive-ones-iii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
