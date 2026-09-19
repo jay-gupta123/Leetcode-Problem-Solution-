@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/0605-can-place-flowers) |
+| [1004-max-consecutive-ones-iii](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/1004-max-consecutive-ones-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/1004-max-consecutive-ones-iii) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -58,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/0392-is-subsequence) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/1004-max-consecutive-ones-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
