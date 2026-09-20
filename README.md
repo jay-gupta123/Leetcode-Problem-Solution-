@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1207-unique-number-of-occurrences](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/1207-unique-number-of-occurrences) |
+| [1657-determine-if-two-strings-are-close](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/0443-string-compression) |
+| [1657-determine-if-two-strings-are-close](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/1657-determine-if-two-strings-are-close) |
 | [3498-reverse-degree-of-a-string](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
@@ -84,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/3498-reverse-degree-of-a-string) |
+## Sorting
+|  |
+| ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/1657-determine-if-two-strings-are-close) |
+## Counting
+|  |
+| ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/1657-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
