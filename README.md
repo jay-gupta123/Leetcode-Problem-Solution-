@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/0443-string-compression) |
+| [3498-reverse-degree-of-a-string](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
