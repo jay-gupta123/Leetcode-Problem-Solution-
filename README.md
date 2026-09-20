@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/1004-max-consecutive-ones-iii) |
+| [1207-unique-number-of-occurrences](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1732-find-the-highest-altitude](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/1732-find-the-highest-altitude) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1207-unique-number-of-occurrences](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
