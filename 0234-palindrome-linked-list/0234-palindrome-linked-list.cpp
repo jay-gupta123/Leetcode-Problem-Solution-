@@ -1,55 +1,48 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
 public:
-    ListNode* reverse(ListNode* head) {
-        ListNode* prev = NULL;
-        ListNode* curr = head;
-
-        while (curr) {
-            ListNode* nxt = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = nxt;
-        }
-
-        return prev;
-    }
-
     bool isPalindrome(ListNode* head) {
-        if (head == nullptr || head->next == nullptr)
-            return true;
-
         ListNode* slow = head;
         ListNode* fast = head;
-        ListNode* prev = nullptr;
 
-        int n = 0;
-        ListNode* temp = head;
-        while (temp != nullptr) {
-            n++;
-            temp = temp->next;
-        }
-
-        while (fast != nullptr && fast->next != nullptr) {
-            prev = slow;
+  
+        //Find the middle of LinkedList
+        while(fast && fast->next){
             slow = slow->next;
             fast = fast->next->next;
         }
 
-        prev->next = reverse(slow);
-
-        ListNode* temp1 = head;
-        ListNode* temp2 = prev->next;
-
-        int i = 0;
-        while (temp1 != nullptr && temp2 != nullptr && i < n / 2) {
-            if (temp1->val != temp2->val) {
-                return false;
-            }
-            temp1 = temp1->next;
-            temp2 = temp2->next;
-            i++;
+       // # Reverse the second half
+        ListNode* prev = NULL;
+        ListNode* front = NULL;
+        while(slow){
+            front = slow->next;
+            slow->next = prev;
+            prev = slow;
+            slow = front;
         }
 
+        while(prev){
+            if(head->val != prev->val){
+                return false;
+            }
+        
+                
+                 head=head->next;
+                prev=prev->next;
+            
+        }
         return true;
+
+        
     }
 };
