@@ -10,38 +10,26 @@
  */
 class Solution {
 public:
-    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        ListNode* dumpyNode = new ListNode(0);
-        ListNode* temp = dumpyNode;
-
-        while (list1 != nullptr && list2 != nullptr) {
-            if (list1->val < list2->val) {
-                temp->next = list1;
-                temp = temp->next;
-                list1 = list1->next;
-            } else {
-                temp->next = list2;
-                temp = temp->next;
-                list2 = list2->next;
+    ListNode* mergeKLists(vector<ListNode*>& lists) {
+       priority_queue<pair<int, ListNode*>,
+       vector<pair<int, ListNode*>>, greater<pair<int, ListNode*>>> pq;
+        for(int i=0;i<lists.size();i++){
+            if(lists[i] != nullptr){
+                  pq.push({lists[i]->val,lists[i]});
+            }
+          
+        }
+        ListNode* dummpyNode = new ListNode(-1);
+        ListNode* temp = dummpyNode;
+        while(!pq.empty()){
+            auto p = pq.top();
+            temp ->next = p.second;
+            temp = temp->next;
+            pq.pop();
+            if(p.second->next != nullptr){
+                pq.push({p.second->next->val,p.second->next});
             }
         }
-
-        if (list1 != nullptr) {
-            temp->next = list1;
-        } else {
-            temp->next = list2;
-        }
-
-        return dumpyNode->next;
-    }
-    ListNode* mergeKLists(vector<ListNode*>& lists) {
-        if (lists.empty()) {
-    return nullptr;
-}
-        ListNode* head = lists[0];
-        for(int i=1;i<lists.size();i++){
-            head = mergeTwoLists(head,lists[i]);
-        }
-        return head;
+        return dummpyNode->next; 
     }
 };
