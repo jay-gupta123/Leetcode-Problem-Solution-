@@ -10,59 +10,46 @@
  */
 class Solution {
 public:
-    ListNode* reverse(ListNode* head, ListNode* null1) {
+    ListNode* reverse(ListNode* head,ListNode* null1){
+        ListNode* temp = head;
         ListNode* prev = null1;
-        ListNode* curr = head;
-
-        while (curr != null1) {
-            ListNode* nextnode = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = nextnode;
+        while(temp != null1){
+            ListNode* nextG = temp->next;
+            temp->next = prev;
+            prev = temp;
+            temp = nextG;
         }
-
         return prev;
     }
-
     ListNode* reverseKGroup(ListNode* head, int k) {
-        if (head == nullptr || k == 1) {
-            return head;
-        }
-
-        ListNode* prevH = nullptr;
+        if(k == 0) return head;
         ListNode* temp = head;
         ListNode* tempH = temp;
+        ListNode* prevH = nullptr;
         int cnt = 0;
-        bool flag = false;
-
-        while (temp != nullptr) {
-            ListNode* prev = temp;
-            temp = temp->next;
-            cnt++;
-
-            if (cnt == k) {
-                ListNode* nextGroup = temp;
-
-                ListNode* newHead = reverse(tempH, temp);
-
-                if (flag == false) {
+        while(temp != nullptr){
+            temp  = temp->next;
+            cnt ++;
+            if(cnt == k){
+                ListNode* newGroup = temp;
+                ListNode* newHead = reverse(tempH,temp);
+                if(tempH == head){
                     head = newHead;
-                    flag = true;
-                } else {
+                }
+                else{
                     prevH->next = newHead;
                 }
+                 prevH  = tempH;
+                 tempH = newGroup;
+                  cnt =0;
 
-                prevH = tempH;
-                tempH = nextGroup;
-                cnt = 0;
             }
+           
         }
-
-       
-        if (prevH != nullptr) {
+        if(prevH != nullptr){
             prevH->next = tempH;
         }
-
         return head;
+        
     }
 };
