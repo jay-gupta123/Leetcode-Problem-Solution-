@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/0443-string-compression) |
 | [0856-score-of-parentheses](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/0856-score-of-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/1657-determine-if-two-strings-are-close) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/0412-fizz-buzz) |
 | [2390-removing-stars-from-a-string](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/0002-add-two-numbers) |
+| [0412-fizz-buzz](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/0412-fizz-buzz) |
 ## Binary Indexed Tree
 |  |
 | ------- |
