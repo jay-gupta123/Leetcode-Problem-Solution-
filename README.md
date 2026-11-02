@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/0334-increasing-triplet-subsequence) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/0724-find-pivot-index) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/0002-add-two-numbers) |
 | [0412-fizz-buzz](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Binary Indexed Tree
 |  |
 | ------- |
