@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/0443-string-compression) |
 | [0856-score-of-parentheses](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/0856-score-of-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/1657-determine-if-two-strings-are-close) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/0412-fizz-buzz) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
