@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/1657-determine-if-two-strings-are-close) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/2390-removing-stars-from-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3498-reverse-degree-of-a-string](https://github.com/jay-gupta123/Leetcode-Problem-Solution-/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
